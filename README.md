@@ -3,8 +3,14 @@
 ### 🌱 I’m currently learning c++, web development
 ### 💞️ I’m looking to collaborate on real life projects
 ### 📫 How to reach me email: tanlijia@graduate.utm.my
+
 # Check this out
-### e-profile ➡️ **https://lijiatan.github.io/**
+### e-profile ➡️ **https://lijiatan.github.io/** 
+# My Youtube channel ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
+### <a href="https://youtube.com/@tanlijia_utm?feature=shared" target="_blank">Visit Tan Li Jia's YouTube Channel</a>
+
+
+
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijiatan&show_icons=true&theme=merko)]
 
@@ -21,7 +27,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lijiatan.visitor-badge)
 
