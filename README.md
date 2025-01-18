@@ -1,8 +1,17 @@
 # 👋 Hi, I’m Tan Li Jia
+## I'm a Bachelor of Computer Science (Computer Networks & Security) student, currently in my 1st year, with a passion for exploring technology, solving challenging problems, and creating innovative solutions. I’m actively developing my skills across various domains
+  
 ### 👀 I’m interested in software development
 ### 🌱 I’m currently learning c++, web development
 ### 💞️ I’m looking to collaborate on real life projects
 ### 📫 How to reach me email: tanlijia@graduate.utm.my
+
+# Hobbies
+When I’m not coding, you’ll likely find me:
+
+- Playing chess ♟️
+- Skipping rope for fitness 🏋️‍♂️
+- Reading books 📚
 
 # Check this out
 ### e-profile ➡️ **https://lijiatan.github.io/** 
