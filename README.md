@@ -2,7 +2,7 @@
 ## I'm a Bachelor of Computer Science (Computer Networks & Security) student, currently in my 1st year, with a passion for exploring technology, solving challenging problems, and creating innovative solutions. I’m actively developing my skills across various domains
   
 ### 👀 I’m interested in software development
-### 🌱 I’m currently learning c++, web development
+### 🌱 I’m currently learning c++
 ### 💞️ I’m looking to collaborate on real life projects
 ### 📫 How to reach me email: tanlijia@graduate.utm.my
 
